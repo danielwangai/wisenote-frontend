@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "format": "./node_modules/.bin/prettier --write --single-quote --print-width=120 --parser=flow --tab-width=2 \"src/**/*.{js,jsx}\""
+  },
+  "devDependencies": {
+    "prettier": "^1.15.3"
+  }
+}
